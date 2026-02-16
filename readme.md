@@ -31,17 +31,6 @@ Will soon be uploaded to HuggingFace!
 
 ---
 
-## 🧩 Method Overview
-
-ROVER performs recursive reasoning over video frames to:
-- Decompose long-horizon embodied tasks into structured subtasks
-- Track subtask-level progress over time
-- Generate dense frame-level semantic descriptions
-- Enable temporally consistent reasoning with vision-language models
-
-This allows robust reasoning over partial observability and complex manipulation trajectories.
-
----
 
 
 ## 📄 License

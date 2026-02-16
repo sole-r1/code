@@ -11,7 +11,6 @@ SOLE-R1 is a video-language reasoning model designed for guiding online RL with 
 
 ---
 ### 📄 Paper (arXiv) - coming soon!
-https://arxiv.org/abs/2508.01943
 
 <!-- ### 📄 Project page 
 https://sole-r1.github.io

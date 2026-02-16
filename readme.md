@@ -6,7 +6,7 @@ This repository contains the official implementation of the methods proposed in 
 SOLE-R1 is a video-language reasoning model designed for guiding online RL with per-timestep CoT reasoning and progress prediction.
 
 <p align="center">
-  <img src="static/fig1_v3.png"  alt="Figure 1" width="900">
+  <img src="static/fig1_v3b.png"  alt="Figure 1" width="1000">
 </p>
 
 ---

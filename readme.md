@@ -47,7 +47,7 @@ See the LICENSE file for details.
 
 ## 🙋 Contact
 
-For questions or issues, please open a GitHub Issue or contact the authors directly.
+For questions or issues, please open a GitHub Issue here.
 
 ---
 

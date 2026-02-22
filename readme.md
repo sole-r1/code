@@ -24,9 +24,15 @@ https://sole-r1.github.io
 
 ---
 
-## 📦 Training Dataset
+## Model Checkpoints
 
-Will soon be uploaded to HuggingFace!
+Full SFT and SFT+RLVR checkpoints for SOLE-R1 will be uploaded soon be uploaded to HuggingFace!
+
+---
+
+## Training Dataset
+
+Complete training dataset for SOLE-R1 will soon be uploaded to HuggingFace!
 
 ---
 
